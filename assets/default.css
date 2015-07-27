@@ -1,0 +1,99 @@
+.container {
+	width: 800px;
+	margin: auto;
+	margin-top: 30px;
+}
+
+.borderize {
+	border-radius: 5px;
+}
+
+body {
+	background-image: url('image/texture.png');
+	/*background-repeat: repeat-x repeat-y;*/
+}
+
+.psue-button {
+}
+
+.header {
+	text-align: center;
+	font-size: 40px;
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom: 20px;
+}
+
+nav {
+	width: 800px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+nav ul li {
+	display: inline-block;
+	text-align: center;
+	width: 200px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+img.avatar {
+	width: 150px;
+	height: 150px;
+	margin: auto;
+	margin-top: 0px;
+	border-radius: 50%;
+	border-width: 8px;
+	border-style: solid;
+	border-color: white;
+	box-shadow: 0 0 10px black;
+}
+
+.row {
+	background-color: rgba(255,255,255,1);
+	border-radius: 5px;
+	padding: 10px;
+	padding-top: 20px;
+}
+
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
+}
+
+.col-200 {
+	width: 200;
+	display: block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.col-600 {
+	width: 600;
+	margin-left: 20px;
+	margin-right: 40px;
+	display: block;
+}
+
+.agenda {
+	margin-top: 20px;
+}
+
+.title {
+	font-size: 24px;
+	font-family: 'FandolKai', '楷体GB_2312', "华文楷体", serif;
+	margin-bottom: 20px;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: gray;
+}
+
+.description {
+	text-indent: 32px;
+	font-size: 16px;
+	line-height: 140%;
+}
