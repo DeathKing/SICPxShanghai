@@ -78,15 +78,18 @@ img.avatar {
 }
 
 .agenda {
+	
+}
+
+.place {
+
+}
+
+.card {
 	margin-top: 20px;
 	padding: 10px;
 	padding-top: 20px;
 	background-color: rgba(255,255,255,1);
-	border-radius: 5px;
-}
-
-.place {
-	margin-top: 20px;
 	border-radius: 5px;
 }
 
@@ -114,4 +117,20 @@ h2 {
 	border-bottom-style: dotted;
 	border-bottom-width: 1px;
 	border-bottom-color: white;
+}
+
+.text-row {
+
+	width: 750px;
+}
+
+.item {
+	width: 200;
+	text-align: right;
+	display: inline-block;
+}
+
+.value {
+	width: 550;
+	display: inline-block;
 }
