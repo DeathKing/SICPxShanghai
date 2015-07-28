@@ -100,6 +100,12 @@ img.avatar {
 	position: relative;
 }
 
+em {
+	font-family: 'FandolKai', '楷体GB_2312', "华文楷体", serif;
+	font-weight: bold;
+	font-style: normal;
+}
+
 .clearfix {
   overflow: auto;
   zoom: 1;
