@@ -44,9 +44,9 @@ img.avatar {
 	margin: auto;
 	margin-top: 35px;
 	border-radius: 50%;
-	border-width: 8px;
+	/*border-width: 8px;
 	border-style: solid;
-	border-color: white;
+	border-color: white;*/
 	box-shadow: 0 0 10px black;
 }
 
@@ -85,6 +85,11 @@ img.avatar {
 	border-radius: 5px;
 }
 
+.place {
+	margin-top: 20px;
+	border-radius: 5px;
+}
+
 .title {
 	font-size: 24px;
 	font-family: 'FandolKai', '楷体GB_2312', "华文楷体", serif;
@@ -98,4 +103,15 @@ img.avatar {
 	text-indent: 32px;
 	font-size: 16px;
 	line-height: 140%;
+}
+
+h2 {
+	font-size: 32px;
+	font-family: 'FandolKai', '楷体GB_2312', "华文楷体", serif;
+	text-shadow: 1px 1px 1px #000000;
+	color: white;
+	margin-bottom: 20px;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+	border-bottom-color: white;
 }
