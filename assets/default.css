@@ -42,7 +42,7 @@ img.avatar {
 	width: 150px;
 	height: 150px;
 	margin: auto;
-	margin-top: 0px;
+	margin-top: 35px;
 	border-radius: 50%;
 	border-width: 8px;
 	border-style: solid;
@@ -51,10 +51,8 @@ img.avatar {
 }
 
 .row {
-	background-color: rgba(255,255,255,1);
-	border-radius: 5px;
-	padding: 10px;
-	padding-top: 20px;
+	margin-top: 20px;
+	margin-bottom: 50px;
 }
 
 .float-right {
@@ -81,6 +79,10 @@ img.avatar {
 
 .agenda {
 	margin-top: 20px;
+	padding: 10px;
+	padding-top: 20px;
+	background-color: rgba(255,255,255,1);
+	border-radius: 5px;
 }
 
 .title {
