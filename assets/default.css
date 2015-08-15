@@ -199,3 +199,7 @@ h2 {
 .has-margin-bottom {
 	margin-bottom: 20px;
 }
+
+.clear-indent {
+	text-indent: 0em;
+}
